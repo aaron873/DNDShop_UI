@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>itemDB.csv</file>
+        <file>settingsImg.png</file>
+    </qresource>
+</RCC>
